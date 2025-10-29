@@ -96,7 +96,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    background: url('gedung-sekolah.jpg') no-repeat center center/cover;
+    background: url("C:\Users\ffazf\OneDrive\Gambar\Screenshots\Screenshot 2025-10-20 043732.png") no-repeat center center/cover;
     height: 500px;
     color: var(--text-light);
     display: flex;
@@ -276,4 +276,5 @@ footer {
     .section {
         padding: 40px 0;
     }
+
 }
